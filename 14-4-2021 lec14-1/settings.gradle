@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "week7_lec14_dialogs"
